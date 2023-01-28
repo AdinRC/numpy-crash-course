@@ -1,4 +1,7 @@
-# numpy-crash-course
+# Link Numpy Crash Course
+https://www.youtube.com/watch?v=9JUAPgtkKpI&ab_channel=PatrickLoeber
+
+# More details import python library
 
 Untuk import python library kita harus buat environment dahulu tapi kalau tak nak pun takpe rasanya<br>
 open terminal <br>
@@ -14,5 +17,4 @@ nanti akan nampak seperti ni <br>
 ![terminal_look_like](https://user-images.githubusercontent.com/93084433/215268894-b3302fd7-55c6-4209-9b2c-1c553a665f7e.png)
 
 
-# Link Numpy Crash Course
-https://www.youtube.com/watch?v=9JUAPgtkKpI&ab_channel=PatrickLoeber
+
